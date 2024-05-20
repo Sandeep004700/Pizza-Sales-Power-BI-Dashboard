@@ -2,9 +2,10 @@
 ### OBJECTIVE
 (1) To analyze customer traffic trends and identify peak hours in order to optimize staffing and improve operational efficiency. <br />
 (2) To identify the average number of pizzas in an order, as well as the top-selling pizzas, in order to inform inventory management and marketing strategies. <br />
-KPI Requirement
+
 ### Problem statement
 #### We will analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically we want to calculate the following metrics:
+#### KPI Requirement
 
 (1)Total Revenue – The sum of the total price of all pizza orders.
 
